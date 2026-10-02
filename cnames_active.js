@@ -3288,7 +3288,9 @@ var cnames_active = {
   "super-controls": "thebearingedge.github.io/super-controls",
   "super-trim": "beeblebrox3.github.io/super-trim",
   "supermouse": "cname.vercel-dns.com", // noCF
-  "supernova-tool": "supernova-tool.github.io/supernova-site",
+  "supernova
+        "nova-os-miyaz": "maulanamiyaz28-ux.github.io/New-folder",
+-tool": "supernova-tool.github.io/supernova-site",
   "surgio": "surgio-documentation.netlify.app",
   "suroadb": "nicamoq.github.io/SuroADB-Lite",
   "surrealorm": "surrealorm.justwolf.dev", // noCF
